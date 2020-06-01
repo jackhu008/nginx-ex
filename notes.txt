@@ -1,0 +1,4 @@
+This example is taken from 
+https://github.com/sclorg/nginx-ex
+forked to 
+https://github.com/jackhu008/nginx-ex
